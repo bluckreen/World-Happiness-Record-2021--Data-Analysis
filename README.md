@@ -1,6 +1,7 @@
 Global Happiness Data Analysis 2021
 
 📌 Overview
+
 This project focuses on analyzing global happiness data to understand the factors that influence a country’s overall well-being. The dataset includes 149 countries and various socio-economic indicators.
 
 👩‍💻 Creator

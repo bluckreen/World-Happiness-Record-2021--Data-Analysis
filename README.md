@@ -17,9 +17,9 @@ The main goal of this project is to:
 📊 Dataset Details
 * Total Countries: 149
 * Total Features: 20
-*Data Type:
-    -18 Numerical Columns
-    -2 Categorical Columns
+* Data Type:
+    - 18 Numerical Columns
+    - 2 Categorical Columns
 Target Variable: Ladder Score (Happiness Score)
 
 🔍 Features Included
@@ -48,9 +48,9 @@ Target Variable: Ladder Score (Happiness Score)
 
 🛠️ Tools & Libraries
 * Python
-   -Pandas
-   -Matplotlib
-   -Seaborn
+   - Pandas
+   - Matplotlib
+   - Seaborn
 * Jupyter Notebook
 
 📌 Conclusion

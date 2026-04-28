@@ -20,7 +20,7 @@ The main goal of this project is to:
 * Data Type:
     - 18 Numerical Columns
     - 2 Categorical Columns
-Target Variable: Ladder Score (Happiness Score)
+* Target Variable: Ladder Score (Happiness Score)
 
 🔍 Features Included
 * GDP per capita
